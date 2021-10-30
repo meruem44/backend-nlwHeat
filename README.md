@@ -11,7 +11,7 @@ de envio de mensagens em tempo real com o socket.io.
 - Utilizamos a api oauth de autenticação do github para preencher
   os dados do usuário com o retorno da api do github
 
-# OPerações no banco SQLITE com o Prima
+# O Perações no banco SQLITE com o Prima
 
 - Utilizamos o prisma como o nosso ORM
 
